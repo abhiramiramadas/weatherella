@@ -46,17 +46,17 @@ python main_bot.py
 <br>
 You can host Weatherella:
 <br>
-- On your local machine ✅
-- On Render 🌐 (with free dynos!)
-- Anywhere with Python and internet access
+- On your local machine ✅ <br>
+- On Render 🌐 (with free dynos!) <br>
+- Anywhere with Python and internet access <br>
 
 ### 🧾 Requirements
 <br>
-- Python 3.8+
-- discord.py
-- requests
-- python-dotenv
-- (All included in requirements.txt)
+- Python 3.8+ <br>
+- discord.py <br>
+- requests <br>
+- python-dotenv <br>
+- (All included in requirements.txt) <br>
 
 
 ### 📸 Screenshots
@@ -64,9 +64,9 @@ You can host Weatherella:
 
 ### 📜 License
 <br>
-- MIT License — free to use, fork, remix & slay 💃
+- MIT License — free to use, fork, remix & slay <br>
 
 ### 💬 Support
 <br>
-DM @weatherella on Discord or file an issue.
-We stan weather with personality 🌈
+DM @weatherella on Discord or file an issue. <br>
+We stan weather with personality 🌈 <br>
