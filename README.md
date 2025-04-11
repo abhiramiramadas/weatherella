@@ -60,6 +60,8 @@ You can host Weatherella:
 
 
 ### 📸 Screenshots
+![image](https://github.com/user-attachments/assets/db8a7a68-fcdc-4553-b053-43cb5b802d02)
+
 <br>
 
 ### 📜 License
