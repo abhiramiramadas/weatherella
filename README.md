@@ -1,0 +1,2 @@
+# weatherella
+discord bot
