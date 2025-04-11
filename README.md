@@ -65,7 +65,7 @@ Below are some previews of Weatherella in action:
 
 <img src="https://github.com/user-attachments/assets/67294b58-1da7-496b-91b7-e823284dc86c" width="400"/>
 <br/>
-<img src="https://github.com/user-attachments/assets/db8a7a68-fcdc-4553-b053-43cb5b802d02" height="400" width="200"/>
+<img src="https://github.com/user-attachments/assets/db8a7a68-fcdc-4553-b053-43cb5b802d02" height="500" width="350"/>
 <br>
 
 ### 📜 License
