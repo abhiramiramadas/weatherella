@@ -23,7 +23,7 @@ Because even the sky deserves a little drama
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/your-username/weatherella.git
+git clone https://github.com/abhiramiramadas/weatherella.git
 cd weatherella
 ```
 ### 2. Create a .env file
